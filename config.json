@@ -1,0 +1,4 @@
+{
+    "prefix": "'",
+    "mongooseString": "mongodb+srv://admin:testing)@cluster0.aptrw.mongodb.net/test"
+}
